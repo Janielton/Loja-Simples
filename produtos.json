@@ -1,0 +1,92 @@
+[
+    {
+        "id_produto": 1,
+        "slug_produto": "fone-lenovo-lp40-tws",
+        "nome_produto": "Fone Lenovo LP40 TWS",
+        "valor_produto": 109.99,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/26LqKK4\/fone-lenovo-lp40-tws.jpg",
+        "descricao_produto": "<p><strong>Lenovo LP40 TWS <\/strong>s\u00e3o fones de ouvido semi-auriculares BT 5.0, com controle de toque, redu\u00e7\u00e3o de ru\u00eddo est\u00e9reo e redu\u00e7\u00e3o de ru\u00eddo design binaural, com interface MIC tipo-c, pode ser usado para jogos, esportes e m\u00fasica.<\/p>\r\n\r\n<p><strong>Especifica\u00e7\u00f5es:<\/strong><\/p>\r\n\r\n<p>Modelo do produto: Lenovo vepodes LP40<\/p>\r\n<p>Modo de opera\u00e7\u00e3o: Controle de toque<\/p>\r\n<p>Vers\u00e3o BT: BT5.0<\/p>\r\n<p>Dist\u00e2ncia de comunica\u00e7\u00e3o: 10m (sem obst\u00e1culos )<\/p>\r\n<p>Sistema compat\u00edvel: IOS \/ ANDROID \/ WINDOWS<\/p>\r\n<p>Capacidade da bateria (mah ) : Headset unilateral * 40mah, armaz\u00e9m <\/p><p>recarreg\u00e1vel * 300mah<\/p>\r\n<p>Porta de carregamento: Tipo-c<\/p>",
+        "nome_categoria": "outro"
+    },
+    {
+        "id_produto": 2,
+        "slug_produto": "cortador-de-cabelo-vintage",
+        "nome_produto": "Cortador de cabelo \/ Vintage",
+        "valor_produto": 115,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/tqz9X3x\/cortador-de-cabelo-vintage.jpg",
+        "descricao_produto": "<center><p><strong>SEM ESTOQUE!!!<\/strong><\/center>\r\n\r\n<p>Vintage T9 - M\u00e1quina de Acabamento Profissional<\/p>\r\n\r\n<p>Pensando em facilitar o seu dia, a m\u00e1quina vintage T9 tem l\u00e2minas afiadas de corte delicado e eficiente, sendo capaz de fazer acabamentos perfeitos, al\u00e9m de ser recarreg\u00e1vel ,\u00e9 port\u00e1til de f\u00e1cil locomo\u00e7\u00e3o, cabe em bolsas ,mochilas, real\u00e7ando sua alto estima por onde for.<\/p>\r\n\r\n<p>Material: Tit\u00e2nio + A\u00e7o Inoxid\u00e1vel<\/p>\r\n\r\n<p>Tipo de alimenta\u00e7\u00e3o: Recarreg\u00e1vel, com cabo USB<\/p>\r\n\r\n<p>Tens\u00e3o: 110-240v<\/p>",
+        "nome_categoria": "Maquinas"
+    },
+    {
+        "id_produto": 3,
+        "slug_produto": "smartwatch-t900-pro-max",
+        "nome_produto": "Smartwatch T900 pro max",
+        "valor_produto": 170,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/mRBjJRC\/smartwatch-t900-pro-max.jpg",
+        "descricao_produto": "<p>- Alta qualidade\r\n<p>- Possui v\u00e1rias Watch Faces\r\n<p>- Display: Tela de toque 1.75? HD 45mm\r\n<p>- Possui a interface no modo Colm\u00e9ia podendo ser alternada para o modo Catraca\r\n<p>- Faz e recebe liga\u00e7\u00f5es atrav\u00e9s do Bluetooth\r\n<p>-Toca m\u00fasica atrav\u00e9s do Bluetooth\r\n<p>- Exibi\u00e7\u00e3o de horas sincronizado com seu Smartphone\r\n<p>- Modo esportivo - Monitoramento do sono\r\n<p>- Lembrete de chamada\r\n<p>- Lembrete de mensagem de todas as redes sociais\r\n<p>- Lembrete sedentarismo - Lembrete de alarme\r\n<p>- Modo N\u00e3o perturbe\r\n<p>- Ritmo card\u00edaco\r\n<p>- Vers\u00e3o Bluetooth: 4.0 - Tela: 1.54 polegadas cor IPS - Tela Touch\r\n<p>- Certifica\u00e7\u00e3o IP67\r\n<p>- Sensor: sensor de tr\u00eas eixos \/ luz verde ativo \/ sensor de frequ\u00eancia card\u00edaca - Passos, dist\u00e2ncia e calorias - Caminhada, corrida, ciclismo, pular, basquete, futebol - Armazenamento de mensagens no hist\u00f3rico\r\n<p>- Alarme\r\n<p>- Medi\u00e7\u00e3o de sa\u00fade: frequ\u00eancia card\u00edaca e press\u00e3o arterial. Monitoramento da frequ\u00eancia card\u00edaca durante todo o dia\r\n\r\n<p>- Tela IPS 2.5D de 1.54\r\n<p>- Utiliza o APP M2 Wear",
+        "nome_categoria": "Relogios"
+    },
+    {
+        "id_produto": 4,
+        "slug_produto": "fone-jbl-tune-220tws",
+        "nome_produto": "Fone JBL tune 220tws",
+        "valor_produto": 200,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/HNYZ7Dh\/fone-jbl-tune-220tws.jpg",
+        "descricao_produto": "Alcance sem fio \u00e9 de 15 m.\r\nSua bateria dura 3 h.\r\nModo m\u00e3os-livres inclu\u00eddo.\r\nCom estojo de carregamento.\r\nInclui microfone.\r\nUso adequado para esporte.\r\nConfort\u00e1vels e pr\u00e1ticos.",
+        "nome_categoria": "outro"
+    },
+    {
+        "id_produto": 5,
+        "slug_produto": "smartwatch-t800-ultra",
+        "nome_produto": "Smartwatch T800 Ultra",
+        "valor_produto": 200,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/x5pyBgw\/smartwatch-ultra-series-8.jpg",
+        "descricao_produto": "Novo lan\u00e7amento 2022",
+        "nome_categoria": "Relogios"
+    },
+    {
+        "id_produto": 6,
+        "slug_produto": "smartwatch-x8-pro-max",
+        "nome_produto": "Smartwatch X8 Pro Max",
+        "valor_produto": 120,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/0BFTghb\/smartwatch-x8-pro-max.jpg",
+        "descricao_produto": "<p>- Resistencia IP67\r\n<p>- Faz e recebe liga\u00e7\u00f5es conectado ao bluetooth com o celular.\r\n<p>- V\u00e1rias op\u00e7\u00f5es de temas de rel\u00f3gios no visor.\r\n<p>- Menu em portugu\u00eas.\r\n<p>- Conex\u00e3o com o celular via Bluetooth.\r\n<p>- Compat\u00edvel com os sistemas Android e iOS.\r\n<p>- Lista telef\u00f4nica para muitos contatos.\r\n<p>- Recebe notifica\u00e7\u00f5es de todas as redes sociais\r\n<p>- Registros de chamadas.\r\n<p>- Toca m\u00fasicas do seu celular.\r\n<p>- Troca de temas.\r\n<p>- Controle de volume.\r\n<p>- Alarme\r\n<p>- Sensor de movimento\r\n<p>- Monitor de sono.\r\n<p>- Medidor de frequ\u00eancia card\u00edaca (n\u00e3o serve para uso profissional).\r\n<p>- Medidor ECG (n\u00e3o serve para uso profissional).\r\n<p>- Lembrete de sedentarismo.\r\n<p>- Aviso sonoro para encontrar o celular at\u00e9 10m.\r\n<p>- Gerenciador de arquivos.",
+        "nome_categoria": "Relogios"
+    },
+    {
+        "id_produto": 8,
+        "slug_produto": "relogio-smart-digital-d20",
+        "nome_produto": "Rel\u00f3gio Smart Digital D20",
+        "valor_produto": 50,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/znLwytH\/b3a1e65fb046.jpg",
+        "descricao_produto": "<p>App: \"fitpro\"\r\n<p>Tipo: rel\u00f3gio inteligente\r\n<p>Vers\u00e3o do bluetooth: bluetooth 4.0\r\n<p>Modo de funcionamento: bot\u00e3o de toque\r\n<p>Sistema operacional compat\u00edvel: android, ios\r\n<p>Capacidade da bateria: 100 mah\r\n<p>Tela: 1.44 polegada lcd\r\n<p>Carga usb de carregamento\r\n<p>Fun\u00e7\u00f5es: esporte, mensagem, despertador, data, medi\u00e7\u00e3o da frequ\u00eancia card\u00edaca, lembrete sedent\u00e1rio, gest\u00e3o do sono, tempo\r\n<p>App: android 5.0 ou acima, para ios 9.0 ou acima\r\n<p>App suporte idioma: chin\u00eas, ingl\u00eas, japon\u00eas, turco, espanhol, alem\u00e3o, russo, finland\u00eas, \u00e1rabe, franc\u00eas, malaio, indon\u00e9sio, coreano, portugu\u00eas",
+        "nome_categoria": "Relogios"
+    },
+    {
+        "id_produto": 9,
+        "slug_produto": "fone-redmi-buds-3",
+        "nome_produto": "Fone Redmi Buds 3",
+        "valor_produto": 100,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/7jtSFp1\/9d6fa38502bd.jpg",
+        "descricao_produto": "<p>Fone de ouvido sem fio\r\n<p>Bluetooth 5.2",
+        "nome_categoria": "outro"
+    },
+    {
+        "id_produto": 10,
+        "slug_produto": "fone-redmi-buds-3-lite",
+        "nome_produto": "Fone Redmi Buds 3 lite",
+        "valor_produto": 135,
+        "status_produto": 1,
+        "imagem_produto": "https:\/\/i.ibb.co\/4VRJXvh\/353889695fb8.jpg",
+        "descricao_produto": "<p>- Bluetooth 5.2 com alcance de at\u00e9 10 metros;\r\n<p>- Caixa carregadora com bateria de 300mAh;\r\n<p>- Conector carregamento tipo-c;\r\n<p>- Cancelamento de ru\u00eddo ativo para liga\u00e7\u00f5es.",
+        "nome_categoria": "outro"
+    }
+]
