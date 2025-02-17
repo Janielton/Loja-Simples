@@ -1,7 +1,7 @@
 <?php
 if ($tipo == 1) :
     require_once('vendor/autoload.php');
-    $apiKey = 'sk_test_51L39tCJYkesZVeFPwExMsM127Sd1gsmC7C7g3V8kQk8dBYPzpL0ZX82zu9UuDT2T1I8hRT9YRISzluZBuqj8V2Q400j2Z49FMy';
+    $apiKey = 'sk_test_51L39tCJYkesZV...';
 
     function CreateCliente($key)
     {
